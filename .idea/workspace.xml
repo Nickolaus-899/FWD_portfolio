@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8900402-ff8a-4657-8eaf-c4493e23256b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2Rs3TdLy7jahWNeEMO7iP71KVo2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Projects/JavaScript/FWD/FWD_portfolio",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Projects\\JavaScript\\FWD\\assignment\\FWD-assignment\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.22855.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8900402-ff8a-4657-8eaf-c4493e23256b" name="Changes" comment="" />
+      <created>1688024971199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688024971199</updated>
+      <workItem from="1688024972306" duration="127000" />
+      <workItem from="1688025110727" duration="7394000" />
+      <workItem from="1688032926181" duration="107000" />
+      <workItem from="1688060822249" duration="11000" />
+      <workItem from="1688109545099" duration="363000" />
+      <workItem from="1688110567647" duration="268000" />
+      <workItem from="1688119541008" duration="49000" />
+      <workItem from="1688122040324" duration="462000" />
+      <workItem from="1688123777426" duration="10000" />
+      <workItem from="1688124429778" duration="875000" />
+      <workItem from="1688125336151" duration="1231000" />
+      <workItem from="1688126586491" duration="6154000" />
+      <workItem from="1688136720412" duration="601000" />
+      <workItem from="1688239179358" duration="359000" />
+      <workItem from="1688242204404" duration="225000" />
+      <workItem from="1688292539074" duration="30000" />
+      <workItem from="1688322372370" duration="3279000" />
+      <workItem from="1688371346034" duration="60000" />
+      <workItem from="1688372410956" duration="622000" />
+      <workItem from="1688379700956" duration="1304000" />
+      <workItem from="1688481991882" duration="22000" />
+      <workItem from="1688633224259" duration="1239000" />
+      <workItem from="1688648489915" duration="29000" />
+      <workItem from="1688655491024" duration="14000" />
+      <workItem from="1688659063507" duration="164000" />
+      <workItem from="1688715761876" duration="84000" />
+      <workItem from="1688716151459" duration="59000" />
+      <workItem from="1706874764117" duration="2478000" />
+      <workItem from="1711442400060" duration="649000" />
+      <workItem from="1711528204597" duration="11000" />
+      <workItem from="1718290848582" duration="10000" />
+      <workItem from="1718790390912" duration="682000" />
+      <workItem from="1718791156749" duration="2074000" />
+      <workItem from="1726912333781" duration="3886000" />
+      <workItem from="1728982014531" duration="11000" />
+      <workItem from="1729241777099" duration="6574000" />
+      <workItem from="1729612420113" duration="19000" />
+      <workItem from="1729705066143" duration="2141000" />
+      <workItem from="1730113413543" duration="2344000" />
+      <workItem from="1730796507150" duration="71000" />
+      <workItem from="1730897289484" duration="19000" />
+      <workItem from="1730902518689" duration="273000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
